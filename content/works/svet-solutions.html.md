@@ -1,0 +1,33 @@
+---
+title: "Svet Solutions"
+work_subtitle: "2024 | Webflow Developer"
+work_title_link_link: "https://www.svetsolutions.com/"
+work_title_link: "https://www.svetsolutions.com/"
+rich_text_block: "Complete website **rebuild** and **rebranding** for a global Documentary and Media Production agency. The project centered on optimizing a large case study library with **Vimeo video embeds** to ensure fast loading and high performance."
+image_full_image_alt: "Svet Solutions Media"
+image_full_image: "/assets/images/svet-theme-3b3d7f9744.webp"
+image_full_image_srcset: "/assets/images/svet-theme-p-500-c236d973f7.webp 500w, /assets/images/svet-theme-p-800-598bf19dcb.webp 800w, /assets/images/svet-theme-p-1080-6355f16171.webp 1080w, /assets/images/svet-theme-p-1600-5e28093d90.webp 1600w, /assets/images/svet-theme-3b3d7f9744.webp 1919w"
+max_width_small: "Rebuilding an outdated site starting from a **Webflow template**, where the primary technical challenge was implementing sophisticated **performance optimization** to handle a large volume of high-quality **Vimeo-hosted videos** without compromising page load speeds."
+image_full_image_2: "/assets/images/svet-services-8a467cc75f.webp"
+image_full_image_2_alt: "Svet Solutions Media"
+max_width_small_2: "Served as **Webflow Developer/Lead**, driving the rebuild and customization of the Webflow template. Successfully **architected content structure** for case studies and implemented critical **video performance optimizations** using efficient Vimeo embedding techniques to ensure smooth, global delivery"
+image_full_image_3: "/assets/images/svetsolutions-go-f101cfd519.svg"
+image_full_image_3_alt: "Svet Solutions Media"
+max_width_small_3: "**Svet Solutions**, an agency specializing in Documentary, Broadcast TV, and Media Production, had an outdated website that didn't reflect their global reach or portfolio. They had a large library of case studies with videos hosted on Vimeo, which posed challenges for page load performance."
+text_size_regular: "As the Webflow lead on the project, my goal was to rebuild the website using a Webflow template, **optimize video-heavy content** for fast loading, and create a polished, professional online presence.\n\n‍"
+image_full_image_4: "/assets/images/svet-menu-9adbdde8f9.png"
+image_full_image_4_alt: "Svet Solutions Media"
+text_size_regular_2: "\\- Rebuilt the website in Webflow starting from a template, customizing layouts and components to match the client's **branding**.\\\n\\- Implemented **performance optimizations** for the large video library, ensuring smooth playback without bandwidth issues by leveraging Vimeo embeds efficiently.\\\n\\- Organized content structure for the **case studies,** making navigation intuitive and accessible.\\\n\\- Tested site **responsiveness** and page load performance across devices and browsers."
+image_full_image_5: "/assets/images/svet-home-e83bac5554.webp"
+image_full_image_5_alt: "Svet Solutions Media"
+text_size_regular_3: "The website was successfully rebuilt with **improved navigation,** fast-loading pages, and smooth video playback. The client was very satisfied, with a site that **better showcased their work and reached their global audience effectively.**"
+image_full_image_6: "/assets/images/svet-works-0043b50672.webp"
+image_full_image_6_alt: "Svet Solutions Media website portfolio showcase"
+general_wrapper: "## Selected Works\n\n<site-component name=\"speaker-item-preview-60b2a9\" />\n\n<site-component name=\"speaker-item-preview-6cfbbc\" />\n\n<site-component name=\"speaker-item-preview-3689e1\" />\n\n<site-component name=\"speaker-item-preview-312c23\" />\n\n<site-component name=\"speaker-item-preview-e59a7f\" />\n\n<site-component name=\"speaker-item-preview-f17085\" />\n\n<site-component name=\"speaker-item-preview-cbf6a6\" />\n\n<site-component name=\"speaker-item-preview-f38cb7\" />\n\n<site-component name=\"speaker-item-preview-7ca805\" />"
+meta_title: "Svet Solutions Webflow Project | Case Study"
+summary: "Webflow Developer project for Svet Solutions. Enterprise website with scalable CMS and advanced Webflow features."
+og_image: "/assets/images/6988d97496f56128c7d38889-opengraph-baf3cc80cc.jpg"
+position: 9
+---
+
+<site-component name="main-navigation-eb46fa" />

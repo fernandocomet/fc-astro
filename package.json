@@ -1,0 +1,25 @@
+{
+	"name": "fernandocomet-com",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"next": "16.2.9",
+		"react": "19.2.4",
+		"react-dom": "19.2.4",
+		"marked": "^16.4.2",
+		"yaml": "^2.9.0",
+		"fflate": "^0.8.2",
+		"lottie-web": "^5.13.0"
+	},
+	"devDependencies": {
+		"@types/node": "^24",
+		"@types/react": "^19",
+		"@types/react-dom": "^19",
+		"typescript": "^5"
+	}
+}

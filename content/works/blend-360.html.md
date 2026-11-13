@@ -1,0 +1,33 @@
+---
+title: "Blend 360"
+work_subtitle: "2024 | Webflow Lead"
+work_title_link_link: "https://www.blend360.com/"
+work_title_link: "https://www.blend360.com/"
+rich_text_block: "A **Webflow migration** and substantial **rebranding initiative**. Key responsibilities included defining the **CMS scope**, establishing the definitive **Webflow Style Guide**, and leading a team of two developers."
+image_full_image_alt: "Blend360"
+image_full_image: "/assets/images/blend-home-687e02f8b9.webp"
+image_full_image_srcset: "/assets/images/blend-home-p-500-307f6f204d.webp 500w, /assets/images/blend-home-p-800-5b10483e73.webp 800w, /assets/images/blend-home-687e02f8b9.webp 1919w"
+max_width_small: "Executing a complex **Webflow migration** concurrently with a major **rebranding effort**. The core difficulty was maintaining absolute **brand consistency** across an extensive CMS while leading the development team and troubleshooting the content transfer process."
+image_full_image_2: "/assets/images/blend-about-725a5751b3.webp"
+image_full_image_2_alt: "Blend360"
+max_width_small_2: "Served as **Webflow Lead**, directing two developers and defining all technical standards. Architected the complete **CMS scope**, created all primary **navigation components**, and established a comprehensive **Webflow Style Guide** to ensure *pixel-perfect* consistency post-migration"
+image_full_image_3: "/assets/images/blend-3d60d74eae.svg"
+image_full_image_3_alt: "Blend360"
+max_width_small_3: "Blend 360 needed to migrate their existing Webflow site to a new Webflow instance while implementing a **significant branding update.** The site included a large CMS with extensive content, and maintaining consistency during the migration was critical.\n\n‍"
+text_size_regular: "As **Webflow Lead**, I was responsible for leading the project, coordinating two other developers, defining the **CMS scope**, creating main **navigation components**, and implementing a comprehensive **Style Guide** to ensure brand consistency across the site."
+image_full_image_4: "/assets/images/blend-cms-e311cb6cf7.png"
+image_full_image_4_alt: "Blend360"
+text_size_regular_2: "\\- Scoped the **CMS structure** to accommodate the existing content efficiently.\\\n\\- Developed the main **navigation components** to match the new branding and ensure usability.- Created a **Webflow Style Guide** for typography, components, colors, and spacing to enforce consistency across pages.\\\n\\- **Coordinated** with the team of two developers, assigning tasks, reviewing work, and ensuring adherence to the new design system.\\\n\\- Oversaw the **migration process**, troubleshooting issues and ensuring smooth content transfer."
+image_full_image_5: "/assets/images/blend-menu-0f861826e6.webp"
+image_full_image_5_alt: "Blend360"
+text_size_regular_3: "The migration and **rebranding** were completed successfully. The site maintained brand consistency, the CMS functioned correctly, and all pages were fully operational. The client was very satisfied with the outcome and subsequently renewed the contract for further work."
+image_full_image_6: "/assets/images/blend-works-1-fc0cad948c.webp"
+image_full_image_6_alt: "Blend360"
+general_wrapper: "## Selected Works\n\n<site-component name=\"speaker-item-preview-60b2a9\" />\n\n<site-component name=\"speaker-item-preview-6cfbbc\" />\n\n<site-component name=\"speaker-item-preview-3689e1\" />\n\n<site-component name=\"speaker-item-preview-312c23\" />\n\n<site-component name=\"speaker-item-preview-e59a7f\" />\n\n<site-component name=\"speaker-item-preview-f17085\" />\n\n<site-component name=\"speaker-item-preview-cbf6a6\" />\n\n<site-component name=\"speaker-item-preview-f38cb7\" />\n\n<site-component name=\"speaker-item-preview-7ca805\" />"
+meta_title: "Blend 360 Webflow Project | Case Study"
+summary: "Webflow Lead development for Blend 360. Enterprise website with scalable architecture and advanced Webflow features."
+og_image: "/assets/images/6988d97496f56128c7d38889-opengraph-baf3cc80cc.jpg"
+position: 4
+---
+
+<site-component name="main-navigation-eb46fa" />

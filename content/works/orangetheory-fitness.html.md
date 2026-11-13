@@ -1,0 +1,33 @@
+---
+title: "Orangetheory Fitness"
+work_subtitle: "2023 | Webflow Engineer"
+work_title_link_link: "https://www.orangetheory.com/"
+work_title_link: "https://www.orangetheory.com"
+rich_text_block: "High-stakes **Migration to Webflow** under a tight deadline. This **enterprise**-level build included managing over **thousands of CMS** items, integrating complex booking processes via React, and achieving **pixel-perfect UI** replication.\n\n‍"
+image_full_image_alt: "Orangetheory Fitness"
+image_full_image: "/assets/images/otf-works-1-915f00e441.webp"
+image_full_image_srcset: "/assets/images/otf-works-1-p-500-c976518ef8.webp 500w, /assets/images/otf-works-1-p-800-d12602db90.webp 800w, /assets/images/otf-works-1-915f00e441.webp 1428w"
+max_width_small: "Executing a complete **migration** for a major fitness franchise within a **3-month sprint**. The core challenge was maintaining **pixel-perfect design fidelity** while managing an immense  **item CMS** and complex location data at scale."
+image_full_image_2: "/assets/images/otf-home-06bcb3ad97.webp"
+image_full_image_2_alt: "Orangetheory Fitness"
+max_width_small_2: "Key role in defining the project's **code standards** (naming conventions, GitHub governance) and ensuring **pixel-perfect UI** replication. Successfully implemented the  **item CMS** and delivered significant **performance gains** and reliability for the React-integrated booking system."
+image_full_image_3: "/assets/images/otf-go-816aae4509.svg"
+image_full_image_3_alt: "Orangetheory Fitness"
+max_width_small_3: "We were tasked with migrating a complex WordPress site to Webflow, which included over 400 articles and a fully-fledged **design system**.We were tasked with migrating an Adobe-based site to Webflow in just three months. This was an enterprise-level Webflow project with a CMS containing over hundreds of items and a complex booking process integrated with React.\n\n‍"
+text_size_regular: "Our goal was to replicate the existing **pixel-perfect UI** in Webflow, ensure full CMS functionality, integrate the booking system with React, and optimize the site's performance."
+image_full_image_4: "/assets/images/otf-articles-76bc3ecaea.webp"
+image_full_image_4_alt: "Orangetheory Fitness"
+text_size_regular_2: "We followed a strict **Scrum methodology** to manage development efficiently. I helped define a new naming system for the project and oversaw JS code via GitHub. I worked closely with the team to ensure the UI matched the original site, implemented the CMS at scale, and focused heavily on performance optimization throughout the build."
+image_full_image_5: "/assets/images/sharecard-memberships-5beda77fc0.jpeg"
+image_full_image_5_alt: "Orangetheory Fitness"
+text_size_regular_3: "Migration was completed successfully within the tight deadline. The site maintained pixel-perfect accuracy, the CMS functioned reliably with 30,000+ items, the booking integration with React worked seamlessly, and overall site performance improved significantly. The client was very satisfied, especially because the migration saved them a substantial amount of money compared to a full rebuild in Adobe."
+image_full_image_6: "/assets/images/wtf-header-1020x680-17f3938634.webp"
+image_full_image_6_alt: "Orangetheory Fitness"
+general_wrapper: "## Selected Works\n\n<site-component name=\"speaker-item-preview-60b2a9\" />\n\n<site-component name=\"speaker-item-preview-6cfbbc\" />\n\n<site-component name=\"speaker-item-preview-3689e1\" />\n\n<site-component name=\"speaker-item-preview-312c23\" />\n\n<site-component name=\"speaker-item-preview-e59a7f\" />\n\n<site-component name=\"speaker-item-preview-f17085\" />\n\n<site-component name=\"speaker-item-preview-cbf6a6\" />\n\n<site-component name=\"speaker-item-preview-f38cb7\" />\n\n<site-component name=\"speaker-item-preview-7ca805\" />"
+meta_title: "Orangetheory Fitness Webflow Project | Case Study"
+summary: "Webflow Engineer project for Orangetheory Fitness. High-performance website with optimized performance and enterprise-ready architecture."
+og_image: "/assets/images/6988d97496f56128c7d38889-opengraph-baf3cc80cc.jpg"
+position: 7
+---
+
+<site-component name="main-navigation-eb46fa" />

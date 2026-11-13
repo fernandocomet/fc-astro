@@ -1,0 +1,33 @@
+---
+title: "Codon65"
+work_subtitle: "2025 | Webflow Developer"
+work_title_link_link: "https://www.codon65.com/"
+work_title_link: "https://www.codon65.com/"
+rich_text_block: "Complete pixel-perfect **Figma-to-Webflow translation** for a design studio specializing in scientific research startups. The project involved implementing a clean CMS structure and integrating advanced **GSAP animations**, anchored by the **Lumos framework**."
+image_full_image_alt: "Codon65"
+image_full_image: "/assets/images/codon-about-01ac8094d0.webp"
+image_full_image_srcset: "/assets/images/codon-about-p-500-1d600a2a1f.webp 500w, /assets/images/codon-about-p-800-ea187b1143.webp 800w, /assets/images/codon-about-01ac8094d0.webp 1919w"
+max_width_small: "Translating a detailed Figma design into a fully functional Webflow site while leveraging the **Lumos framework** for maintainability. The core technical difficulty was implementing a complex, highly responsive **GSAP-animated navigation bar** across all breakpoints."
+image_full_image_2: "/assets/images/codon-approach-29fb723767.png"
+image_full_image_2_alt: "Codon65"
+max_width_small_2: "Served as **Webflow Lead**, responsible for the full development lifecycle. Developed the site structure and CMS using the **Lumos framework**, ensuring code integrity. Successfully implemented all **GSAP animations**, focusing on the complex, interactive **navigation system** for optimal UX"
+image_full_image_3: "/assets/images/c65-logo-white-633a811b5f.svg"
+image_full_image_3_alt: "Codon65"
+max_width_small_3: "Codon65 is a founder-led design studio in the UK, partnering with startups and founders in scientific research, including biotechnology and cancer research. They had a comprehensive Figma design and needed a **fully functional Webflow site with advanced animations and a CMS** to manage content efficiently."
+text_size_regular: "As the Webflow Lead, my responsibility was to develop the complete site from Figma, implement the CMS, and ensure **smooth, responsive animations**, particularly for the navigation bar, while using the Lumos framework for structure and maintainability."
+image_full_image_4: "/assets/images/codon65--digital-product-studio---elevate-your-s-7b914b6ae2.webp"
+image_full_image_4_alt: "Codon65"
+text_size_regular_2: "\\- Built the website in Webflow using the **Lumos framework**, translating all pixel-perfect Figma designs into a live site.\\\n\\- Developed the **CMS structure** to manage complex content efficiently.\\\n\\- Implemented GSAP animations, with a special focus on a **complex, responsive navigation bar.**\\\n\\- Ensured the site was fully responsive and optimized for performance and user experience.\""
+image_full_image_5: "/assets/images/codon-home-adfdb9ab27.webp"
+image_full_image_5_alt: "Codon65"
+text_size_regular_3: "The site was delivered successfully, with a **polished design, fully functional CMS, and smooth, visually appealing animations.** The navigation bar worked seamlessly across devices, and the client was highly satisfied with the outcome.\n\n‍"
+image_full_image_6: "/assets/images/codon65-works-9c9ac74363.webp"
+image_full_image_6_alt: "Codon65 digital product studio website homepage"
+general_wrapper: "## Selected Works\n\n<site-component name=\"speaker-item-preview-60b2a9\" />\n\n<site-component name=\"speaker-item-preview-6cfbbc\" />\n\n<site-component name=\"speaker-item-preview-3689e1\" />\n\n<site-component name=\"speaker-item-preview-312c23\" />\n\n<site-component name=\"speaker-item-preview-e59a7f\" />\n\n<site-component name=\"speaker-item-preview-f17085\" />\n\n<site-component name=\"speaker-item-preview-cbf6a6\" />\n\n<site-component name=\"speaker-item-preview-f38cb7\" />\n\n<site-component name=\"speaker-item-preview-7ca805\" />"
+meta_title: "Codon65 Webflow Project | Case Study"
+summary: "Webflow Developer project for Codon65. Modern website with performance optimization and enterprise-ready architecture."
+og_image: "/assets/images/6988d97496f56128c7d38889-opengraph-baf3cc80cc.jpg"
+position: 5
+---
+
+<site-component name="main-navigation-eb46fa" />

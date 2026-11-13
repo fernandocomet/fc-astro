@@ -1,0 +1,33 @@
+---
+title: "Outliant"
+work_subtitle: "2024 | Webflow Lead"
+work_title_link_link: "https://www.outliant.com/"
+work_title_link: "https://www.outliant.com/"
+rich_text_block: "Complete website rebranding for an Enterprise Webflow Partner (now acquired by Ignite Visibility). Project involved **leading a team of 5 developers, integrating a large existing CMS structure, and implementing sophisticated GSAP** and JavaScript animations for enhanced user experience.\n\n‍"
+image_full_image_alt: "Outliant"
+image_full_image: "/assets/images/outliant-carrusel-08d67dcdf8.webp"
+image_full_image_srcset: "/assets/images/outliant-carrusel-p-500-bfa5888f06.webp 500w, /assets/images/outliant-carrusel-p-800-82ac7e2e36.webp 800w, /assets/images/outliant-carrusel-p-1080-f81d2ca9d1.webp 1080w, /assets/images/outliant-carrusel-08d67dcdf8.webp 1919w"
+max_width_small: "Leading a team of **5 developers** through a major rebrand and CMS migration, requiring seamless integration of **advanced GSAP/JavaScript animations** and transitions across the site to achieve a polished, modern, and high-performance **Enterprise-level** finish."
+image_full_image_2: "/assets/images/outliant-migration-cbc2a47866.webp"
+image_full_image_2_alt: "Outliant"
+max_width_small_2: "Served as **Webflow Lead**, guiding a large team (5 developers) and defining all code standards. **Developed the complete Design System** and **CMS architecture**. Successfully implemented custom, high-impact **GSAP/JavaScript animations** and transitions, significantly elevating the site's look and feel."
+image_full_image_3: "/assets/images/outliant-7e72da1428.svg"
+image_full_image_3_alt: "Outliant"
+max_width_small_3: "Outliant, a **Webflow Enterprise Partner** (now acquired by Ignite Visibility), needed a website rebrand to achieve a cleaner look and feel with smoother interactions. The project involved integrating a large existing CMS, adding job listings, and enhancing the site with animations and transitions."
+text_size_regular: "As Webflow Lead, I was responsible for **leading a team of 5 developers**, implementing the rebranding, **integrating CMS content**, and adding GSAP/JavaScript animations and transitions to **improve the user experience**."
+image_full_image_4: "/assets/images/outliant-works-8839fe3b0a.webp"
+image_full_image_4_alt: "Outliant enterprise website development project showcase"
+text_size_regular_2: "\\- Led the team of 5 Webflow developers, assigning tasks, reviewing work, and ensuring adherence to the **new branding.**\\\n\\- Implemented a cleaner layout with **GSAP** and JavaScript-based animations and transitions for navigation, sections, and interactive elements.\\\n\\- Integrated the existing **CMS content** and implemented the job listings integration, ensuring functionality and consistency.\\\n\\- Coordinated closely with stakeholders to maintain alignment on design, content, animations, and functionality."
+image_full_image_5: "/assets/images/outliant-case-c4db5e2ada.webp"
+image_full_image_5_alt: "Outliant"
+text_size_regular_3: "The website’s **Look & Feel** improved significantly, with smoother animations and a polished, modern appearance. CMS content and job listings were fully functional, and the client was highly satisfied with the final outcome."
+image_full_image_6: "/assets/images/outliant-01-17-2026-01-17-pm-38041c7971.webp"
+image_full_image_6_alt: "Outliant"
+general_wrapper: "## Selected Works\n\n<site-component name=\"speaker-item-preview-439431\" />\n\n<site-component name=\"speaker-item-preview-5b693e\" />\n\n<site-component name=\"speaker-item-preview-0858a0\" />\n\n<site-component name=\"speaker-item-preview-d1b788\" />\n\n<site-component name=\"speaker-item-preview-546890\" />\n\n<site-component name=\"speaker-item-preview-e7a557\" />\n\n<site-component name=\"speaker-item-preview-7d7010\" />\n\n<site-component name=\"speaker-item-preview-49c567\" />\n\n<site-component name=\"speaker-item-preview-20baf2\" />"
+meta_title: "Outliant Webflow Project | Case Study"
+summary: "Webflow Lead development for Outliant. Enterprise website with advanced features, performance optimization, and scalable architecture."
+og_image: "/assets/images/6988d97496f56128c7d38889-opengraph-baf3cc80cc.jpg"
+position: 8
+---
+
+<site-component name="main-navigation-6d4643" />

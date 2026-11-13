@@ -1,0 +1,100 @@
+/*
+ * Motion carried from the original site, timed as its own runtime timed it. An element that
+ * enters gets data-motion="appear" (on load) or "reveal" (as it comes into view: motion.tsx),
+ * and its first state as --from-opacity, --from-translate, --from-scale and --from-rotate (only
+ * what moves); it plays from there to where it rests. Each spring is sampled into a linear()
+ * easing that settles when the spring does.
+ */
+@keyframes motion-opacity {
+	from { opacity: var(--from-opacity); }
+}
+@keyframes motion-opacity-out {
+	to { opacity: var(--from-opacity); }
+}
+@keyframes motion-translate {
+	from { translate: var(--from-translate); }
+}
+@keyframes motion-translate-out {
+	to { translate: var(--from-translate); }
+}
+@keyframes motion-scale {
+	from { scale: var(--from-scale); }
+}
+@keyframes motion-scale-out {
+	to { scale: var(--from-scale); }
+}
+@keyframes motion-rotate {
+	from { rotate: var(--from-rotate); }
+}
+@keyframes motion-rotate-out {
+	to { rotate: var(--from-rotate); }
+}
+@keyframes motion-filter {
+	from { filter: var(--from-filter); }
+}
+@keyframes motion-filter-out {
+	to { filter: var(--from-filter); }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	[data-motion] {
+		animation-duration: var(--motion-duration, 300ms);
+		animation-timing-function: var(--motion-ease, ease);
+		animation-delay: var(--motion-delay, 0ms);
+	}
+	/* Played in, then done: once at rest nothing of the animation stays on the element. */
+	[data-motion="appear"],
+	[data-motion="reveal"][data-inview="in"] {
+		animation-name: var(--motion-in);
+		animation-fill-mode: backwards;
+	}
+	/* Waiting to come into view: held at its first state. */
+	[data-motion="reveal"]:not([data-inview]) {
+		animation-name: var(--motion-out);
+		animation-duration: 0s;
+		animation-delay: 0s;
+		animation-fill-mode: forwards;
+	}
+	[data-motion="reveal"][data-inview="out"] {
+		animation-name: var(--motion-out);
+		animation-fill-mode: forwards;
+	}
+}
+
+/* A Lottie player's own element (lottie.tsx plays it) is the block its own styles made it, at no specificity. */
+:where(lottie-player, dotlottie-player, dotlottie-wc) {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+/*
+ * Interactions carried from the original site's own data: each element that moves has
+ * data-ix and rules of its own (the page's CSS). A transform is composed as the original's
+ * runtime composed it, from one variable per part, so each part moves on its own easing.
+ */
+@property --ix-tx { syntax: "<length-percentage>"; inherits: false; initial-value: 0px; }
+@property --ix-ty { syntax: "<length-percentage>"; inherits: false; initial-value: 0px; }
+@property --ix-tz { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --ix-sx { syntax: "<number>"; inherits: false; initial-value: 1; }
+@property --ix-sy { syntax: "<number>"; inherits: false; initial-value: 1; }
+@property --ix-sz { syntax: "<number>"; inherits: false; initial-value: 1; }
+@property --ix-rx { syntax: "<angle>"; inherits: false; initial-value: 0deg; }
+@property --ix-ry { syntax: "<angle>"; inherits: false; initial-value: 0deg; }
+@property --ix-rz { syntax: "<angle>"; inherits: false; initial-value: 0deg; }
+@property --ix-kx { syntax: "<angle>"; inherits: false; initial-value: 0deg; }
+@property --ix-ky { syntax: "<angle>"; inherits: false; initial-value: 0deg; }
+@property --ix-f-blur { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --ix-f-hue-rotate { syntax: "<angle>"; inherits: false; initial-value: 0deg; }
+@property --ix-f-invert { syntax: "<percentage>"; inherits: false; initial-value: 0%; }
+@property --ix-f-grayscale { syntax: "<percentage>"; inherits: false; initial-value: 0%; }
+@property --ix-f-saturate { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --ix-f-sepia { syntax: "<percentage>"; inherits: false; initial-value: 0%; }
+@property --ix-f-contrast { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --ix-f-brightness { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --ix-lottie { syntax: "<number>"; inherits: false; initial-value: 0; }
+/* The layout's own transform (a centring translateY(-50%)), first, as the runtime composed it. */
+@property --ix-base { syntax: "*"; inherits: false; }
+[data-ix] {
+	--ix-transform: var(--ix-base,) translate3d(var(--ix-tx), var(--ix-ty), var(--ix-tz)) scale3d(var(--ix-sx), var(--ix-sy), var(--ix-sz)) rotateX(var(--ix-rx)) rotateY(var(--ix-ry)) rotateZ(var(--ix-rz)) skew(var(--ix-kx), var(--ix-ky));
+}

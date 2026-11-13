@@ -1,0 +1,33 @@
+---
+title: "Apollo Theater"
+work_subtitle: "2024 | Webflow Lead"
+work_title_link_link: "https://www.apollotheater.org/"
+work_title_link: "https://www.apollotheater.org"
+rich_text_block: "Complete **WordPress to Webflow migration** concurrent with a full **rebranding initiative**. Project highlights include leading a team of 5 developers, creating a comprehensive Style Guide, and integrating a complex events calendar with **FullCalendar.io**."
+image_full_image_alt: "Apollo Theater"
+image_full_image: "/assets/images/apollo-carrusel-7e42f1b21a.webp"
+image_full_image_srcset: "/assets/images/apollo-carrusel-p-500-f7d8fd9093.webp 500w, /assets/images/apollo-carrusel-p-800-b6666d58b1.webp 800w, /assets/images/apollo-carrusel-p-1080-022d0e4991.webp 1080w, /assets/images/apollo-carrusel-7e42f1b21a.webp 1919w"
+max_width_small: "Leading a development team through a high-stakes **migration and rebrand**, requiring the definition of a new Webflow Style Guide. Core difficulty involved the successful integration of **FullCalendar.io** and using **AI to convert legacy PDF content** into structured CMS items."
+image_full_image_2: "/assets/images/apollo-press-86bc91c83a.webp"
+image_full_image_2_alt: "Apollo Theater"
+max_width_small_2: "Served as **Webflow Lead**, guiding a team of **5 developers** throughout the project lifecycle. Established the definitive **Webflow Style Guide/Design System**, successfully integrated the **FullCalendar.io** library, and managed the **AI-assisted migration** of complex PDF-based content."
+image_full_image_3: "/assets/images/apollo-logo-wht-rgb-1ef252f522.png"
+image_full_image_3_alt: "Apollo Theater"
+max_width_small_3: "We were migrating a **WordPress site to Webflow** while applying a completely new branding. The site included a large events calendar and content that was mostly stored in PDFs."
+text_size_regular: "I was responsible for **leading the Webflow development team**, defining the new Style Guide, and ensuring the successful migration and implementation of the new **branding** across the site."
+image_full_image_4: "/assets/images/apollo-home-4b3c985f01.webp"
+image_full_image_4_alt: "Apollo Theater"
+text_size_regular_2: "I created the comprehensive **design Style Guide** in Webflow and led a team of four Webflow developers. For the events calendar, I researched and implemented **FullCalendar.io**, integrating it successfully into the site. For PDF-based content, we used AI tools to convert it into Webflow-friendly format, ensuring accuracy and consistency."
+image_full_image_5: "/assets/images/apollo-calendar-73c4a972bd.webp"
+image_full_image_5_alt: "Apollo Theater"
+text_size_regular_3: "Migration and rebranding were successful. The **new design** was implemented across all pages, the events calendar functioned correctly, and most c**ontent was migrated seamlessly**, with AI-assisted conversion solving tricky PDF content issues."
+image_full_image_6: "/assets/images/apollo-works-f909f832f0.webp"
+image_full_image_6_alt: "Apollo Theater"
+general_wrapper: "## Selected Works\n\n<site-component name=\"speaker-item-preview-60b2a9\" />\n\n<site-component name=\"speaker-item-preview-6cfbbc\" />\n\n<site-component name=\"speaker-item-preview-3689e1\" />\n\n<site-component name=\"speaker-item-preview-312c23\" />\n\n<site-component name=\"speaker-item-preview-e59a7f\" />\n\n<site-component name=\"speaker-item-preview-f17085\" />\n\n<site-component name=\"speaker-item-preview-cbf6a6\" />\n\n<site-component name=\"speaker-item-preview-f38cb7\" />\n\n<site-component name=\"speaker-item-preview-7ca805\" />"
+meta_title: "Apollo Theater Webflow Project | Case Study"
+summary: "Webflow Lead development for Apollo Theater. Cultural institution website with advanced CMS, performance optimization, and accessibility compliance."
+og_image: "/assets/images/6988d97496f56128c7d38889-opengraph-baf3cc80cc.jpg"
+position: 2
+---
+
+<site-component name="main-navigation-eb46fa" />
